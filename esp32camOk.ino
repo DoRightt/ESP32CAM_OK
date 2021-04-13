@@ -1,5 +1,6 @@
 //IP camera on the module ESP32 CAM 
 // This sketch has been tested and is working with the ESP32-S CAM by AI Thinker.
+// Launch a web browser and put http://192.168.31.77
 #include "esp_camera.h"
 #include <WiFi.h>
 #include "esp_timer.h"
